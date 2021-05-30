@@ -1,0 +1,7 @@
+LOG_PATH_MAPPING:
+  default: /data/logs/finsense_extractor/
+  train: /data/logs/finsense_extractor/train/
+  predict:  /data/logs/finsense_extractor/predict/
+
+PORT_CONFIG:
+  port: 8005
